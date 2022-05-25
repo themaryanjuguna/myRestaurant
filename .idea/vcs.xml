@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Core/JAVA/CaezerCipher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Core/JAVA/Github-Search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Core/JAVA/HeroSquad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Core/JAVA/HeroSquad1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Core/JAVA/backup/HeroSquad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Core/JAVA/test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/Awoken" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/AwokenCorrect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/CORE current/Awoken" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/CORE current/wildlife-trackinglist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/ntiko" vcs="Git" />
+  </component>
+</project>
