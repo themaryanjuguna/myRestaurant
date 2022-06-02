@@ -13,7 +13,6 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    public static final String TAG = MainActivity.class.getSimpleName();
     private Button mFindRestaurantsButton;
     private EditText mFindLocationEditText;
 
@@ -28,13 +27,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String location = mFindLocationEditText.getText().toString();
-                Log.d(TAG, location);
-                //do something
-                Intent intent = new Intent(MainActivity.this, RestaurantActivity.class);
+               Intent intent = new Intent(MainActivity.this, RestaurantActivity.class);
+                intent.putExtra("location", location);
                 startActivity(intent);
-              /*  String location = mFindLocationEditText.getText().toString();
-                Toast.makeText(MainActivity.this, location, Toast.LENGTH_LONG).show();*/
-
             }
         });
 

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="yname">Enter your Name:</string>
+    <string name="restaurants_near">Restaurants near</string>
 </resources>
