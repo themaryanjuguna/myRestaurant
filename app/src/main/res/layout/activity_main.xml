@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context=".ui.MainActivity"
     android:background="#000000">
 
     <ImageView
@@ -14,6 +14,7 @@
         android:contentDescription="Restaurant"
         android:scaleType="centerCrop"
         android:src="@drawable/myrestaurant" />
+
 
     <TextView
         android:id="@+id/textView"
@@ -25,7 +26,7 @@
         android:fontFamily="@font/ubuntu_light"
         android:text="MyRestaurants"
         android:textColor="@color/LightColorPrimary"
-        android:textSize="30sp"
+        android:textSize="50sp"
         android:textStyle="bold" />
 
 
